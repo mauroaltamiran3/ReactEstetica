@@ -1,0 +1,75 @@
+{
+    "products":[
+      {
+        "id": 1,
+        "title": "Manicura Clásica",
+        "description": "Tratamiento completo para tus uñas.",
+        "price": 6000,
+        "stock": 10,
+        "image": "https://images.pexels.com/photos/791157/pexels-photo-791157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 2,
+        "title": "Pedicura Spa",
+        "description": "Relaja tus pies con un tratamiento especial.",
+        "price": 9000,
+        "image": "https://images.pexels.com/photos/5793885/pexels-photo-5793885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 3,
+        "title": "Pestañas",
+        "description": "Dale volumen a tus pestañas con extensiones.",
+        "price": 5000,
+        "image": "https://images.pexels.com/photos/15998810/pexels-photo-15998810/free-photo-of-face-of-woman.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 4,
+        "title": "Masaje Relajante",
+        "description": "Masaje corporal para liberar el estrés.",
+        "price": 10000,
+        "image": "https://images.pexels.com/photos/9335979/pexels-photo-9335979.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 5,
+        "title": "Tratamiento Facial",
+        "description": "Cuida tu piel con un tratamiento personalizado.",
+        "price": 4500,
+        "image": "https://images.pexels.com/photos/6663571/pexels-photo-6663571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 6,
+        "title": "Peinado Formal",
+        "description": "Estilo profesional para eventos importantes.",
+        "price": 4900,
+        "image": "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 7,
+        "title": "Depilación Definitiva",
+        "description": "Depilación definitiva para todo el cuerpo.",
+        "price": 15000,
+        "image": "https://images.pexels.com/photos/6663571/pexels-photo-6663571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 8,
+        "title": "Maquillaje de Novia",
+        "description": "Luce espectacular en tu gran día.",
+        "price": 4500,
+        "image": "https://images.pexels.com/photos/28112154/pexels-photo-28112154/free-photo-of-close-up-of-woman-applying-lipstick.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 9,
+        "title": "Corte de Cabello",
+        "description": "Corte moderno y estilizado.",
+        "price": 9500,
+        "image": "https://images.pexels.com/photos/3993447/pexels-photo-3993447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 10,
+        "title": "Exfoliación Corporal",
+        "description": "Elimina células muertas y renueva tu piel.",
+        "price": 4500,
+        "image": "https://images.pexels.com/photos/10976260/pexels-photo-10976260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ]
+  }
