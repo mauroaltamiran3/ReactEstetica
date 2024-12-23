@@ -1,0 +1,184 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "title": "Esmaltes Básicos",
+      "description": "Set de esmaltes de uñas en colores básicos.",
+      "price": 3500,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1522336552288-a9cc74a8dfd7?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "manicuria"
+    },
+    {
+      "id": 2,
+      "title": "Esmaltes Colores Varios",
+      "description": "Set de esmaltes de uñas en colores variados.",
+      "price": 4000,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1599948128020-9a44505b0d1b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "manicuria"
+    },
+    {
+      "id": 3,
+      "title": "Kit de Manicura",
+      "description": "Kit completo de herramientas para manicura.",
+      "price": 15000,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1595320378041-72f4c1490773?q=80&w=2014&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "manicuria"
+    },
+    {
+      "id": 4,
+      "title": "Quitaesmalte",
+      "description": "Removedor de esmalte sin acetona.",
+      "price": 2000,
+      "stock": 40,
+      "image": "https://acdn.mitiendanube.com/stores/001/155/672/products/doree-quitaesmalte11-bf7ac48a810ea4416516192139288325-640-0.jpg",
+      "category": "manicuria"
+    },
+    {
+      "id": 5,
+      "title": "Aceite para Cutículas",
+      "description": "Aceite hidratante para cutículas.",
+      "price": 4000,
+      "stock": 25,
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/663c3e9e28ef17e37ea2e106ea6ba7450a578ed1e0a9f6ca8d908ae86886945940995.jpg",
+      "category": "manicuria"
+    },
+    {
+      "id": 6,
+      "title": "Lima de Uñas Profesional",
+      "description": "Lima de uñas de alta calidad para un acabado perfecto.",
+      "price": 800,
+      "stock": 60,
+      "image": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/7b78913dd929fe4ef8e81393195004f0.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "category": "manicuria"
+    },
+    {
+      "id": 7,
+      "title": "Aceite de masajes",
+      "description": "Aceite de masajes relajantes.",
+      "price": 7000,
+      "stock": 20,
+      "image": "https://calmabisarg.com/cdn/shop/files/IMG_7030_903392be-6e21-4210-a5fd-be9eda159d52.heic?v=1727300349&width=1946",
+      "category": "spa"
+    },
+    {
+      "id": 8,
+      "title": "Crema hidratante",
+      "description": "Crema hidratante para manos y cuerpo.",
+      "price": 8000,
+      "stock": 30,
+      "image": "https://i.etsystatic.com/12367296/r/il/b94465/4657376056/il_570xN.4657376056_1yp8.jpg",
+      "category": "spa"
+    },
+    {
+      "id": 9,
+      "title": "Mascarilla facial",
+      "description": "Mascarilla facial de arcilla.",
+      "price": 1500,
+      "stock": 40,
+      "image": "https://acdn.mitiendanube.com/stores/138/958/products/acf-bubble-mask1-4f7d1edb897e0ac67f15705593635831-1024-1024.jpg",
+      "category": "spa"
+    },
+    {
+      "id": 10,
+      "title": "Exfoliante corporal",
+      "description": "Exfoliante corporal de sales marinas.",
+      "price": 5000,
+      "stock": 35,
+      "image": "https://acdn.mitiendanube.com/stores/112/735/products/img_7767-0248a693cca7438d8916975048952969-1024-1024.jpeg",
+      "category": "spa"
+    },
+    {
+      "id": 11,
+      "title": "Vela aromática",
+      "description": "Vela aromática de lavanda.",
+      "price": 7000,
+      "stock": 50,
+      "image": "https://cdn.shopify.com/s/files/1/0732/7734/1971/files/A02V___VELA_AROMATICA_6X6_VAINILLA_c.jpg?v=1686837328",
+      "category": "spa"
+    },
+    {
+      "id": 12,
+      "title": "Sales de baño",
+      "description": "Sales de baño de lavanda.",
+      "price": 2500,
+      "stock": 45,
+      "image": "https://acdn.mitiendanube.com/stores/826/428/products/c0e7a2ae-887a-47a0-aff6-d9a2ff7df46e-c0dac6d6c42948458f16559280293937-640-0.jpeg",
+      "category": "spa"
+    },
+    {
+      "id": 13,
+      "title": "Set de maquillaje",
+      "description": "Set de maquillaje completo.",
+      "price": 12000,
+      "stock": 15,
+      "image": "https://i.pinimg.com/736x/8a/08/1e/8a081eff04564e8155f19dfe9cd00300.jpg",
+      "category": "maquillaje"
+    },
+    {
+      "id": 14,
+      "title": "Base de maquillaje",
+      "description": "Base de maquillaje de alta cobertura.",
+      "price": 5000,
+      "stock": 30,
+      "image": "https://acdn.mitiendanube.com/stores/001/134/645/products/7794740160287-05-recuperado-31-39a743fa233871190916884763842865-1024-1024.jpg",
+      "category": "maquillaje"
+    },
+    {
+      "id": 15,
+      "title": "Rubor",
+      "description": "Rubor en polvo compacto.",
+      "price": 3000,
+      "stock": 40,
+      "image": "https://dapopmakeupstore.com/cdn/shop/files/21771962-849F-429F-B83A-BC5CC42D495D.jpg?v=1716113888&width=1946",
+      "category": "maquillaje"
+    },
+    {
+      "id": 16,
+      "title": "Sombra de ojos",
+      "description": "Sombra de ojos en tonos neutros.",
+      "price": 4000,
+      "stock": 35,
+      "image": "https://s.libertaddigital.com/2022/11/05/paleta-de-sombras-de-ojos-beauty-glazed.jpg",
+      "category": "maquillaje"
+    },
+    {
+      "id": 17,
+      "title": "Shampoo en seco",
+      "description": "Shampoo en seco para todo tipo de cabello.",
+      "price": 17000,
+      "stock": 20,
+      "image": "https://acdn.mitiendanube.com/stores/003/296/899/products/cbec220e-9abd-4025-a8f2-fdec90a9680f-288e9494eccf71623a17041643636705-1024-1024.jpeg",
+      "category": "cabello"
+    },
+    {
+      "id": 18,
+      "title": "Acondicionador",
+      "description": "Acondicionador para cabello seco.",
+      "price": 6000,
+      "stock": 25,
+      "image": "https://capilatis.com.ar/wp-content/uploads/2023/10/7792640004496-3.jpg",
+      "category": "cabello"
+    },
+    {
+      "id": 19,
+      "title": "Máscara capilar",
+      "description": "Máscara capilar hidratante.",
+      "price": 7000,
+      "stock": 30,
+      "image": "https://capilatis.com.ar/wp-content/uploads/2023/03/7792640002867-3.jpg",
+      "category": "cabello"
+    },
+    {
+      "id": 20,
+      "title": "Serum reparador",
+      "description": "Serum reparador de puntas.",
+      "price": 5000,
+      "stock": 35,
+      "image": "https://acdn.mitiendanube.com/stores/001/067/341/products/dsc_00761-412aa22a2f50aba0e816245681019405-1024-1024.jpg",
+      "category": "cabello"
+    }
+  ]
+}
