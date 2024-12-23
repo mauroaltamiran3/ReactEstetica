@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import {NavBar} from './components/NavBar';
 import {ItemListContainer} from './components/ItemListContainer';
@@ -15,21 +14,6 @@ function App() {
             </Routes>
         </Router>
     );
-=======
-// import { useState } from 'react';
-import { NavBar } from './components/NavBar';
-import { ItemListContainer } from './components/ItemListContainer';
-import './App.css'
-
-function App() {
-
-  return (
-    <>
-      <NavBar />
-      <ItemListContainer variablePrecio= {0.9} />
-    </>
-  )
->>>>>>> 5b7b3807fa5e1f5d540a86503180e44fd5863797
 }
 
 export default App;

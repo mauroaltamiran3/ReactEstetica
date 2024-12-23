@@ -7,10 +7,7 @@ body {
 #root {
   margin: 0 auto;
   min-height: 100vh;
-<<<<<<< HEAD
   place-content: center;
-=======
->>>>>>> 5b7b3807fa5e1f5d540a86503180e44fd5863797
 }
 
 /* RESET */
@@ -20,7 +17,6 @@ ul, p, li, a {
   list-style: none;
   text-decoration: none;
 }
-<<<<<<< HEAD
 
 .counterBtn {
   flex-direction: column;
@@ -42,6 +38,3 @@ ul, p, li, a {
   color: #FAF7F0;
   border: 1px solid #333333;
 }
-=======
-/* RESET */
->>>>>>> 5b7b3807fa5e1f5d540a86503180e44fd5863797
