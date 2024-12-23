@@ -1,6 +1,7 @@
 .nav-header {
   display: flex;
   justify-content: space-between;
+<<<<<<< HEAD
   align-items: center;
   padding: 1rem;
   background-color: #fff;
@@ -74,4 +75,43 @@
   .nav-header-categoriesList li {
       margin: 0.5rem 0;
   }
+=======
+  margin: 2rem 0;
+  padding: 0 2rem;
+  align-items: center;
+}
+
+.nav-header-logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-header-menu {
+  display: flex;
+  align-items: center;
+}
+
+.nav-header-menuList {
+  display: flex;
+  gap: 1.5rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.nav-header-menuList a {
+  color: #333;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-header-menu svg {
+  margin-left: 1.5rem;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-header-menuList a:hover, .nav-header-menu svg:hover, .nav-header-logo:hover  {
+  color: #B17457;
+>>>>>>> 5b7b3807fa5e1f5d540a86503180e44fd5863797
 }

@@ -6,7 +6,10 @@
     justify-content: center;
     color: #4A4947;
     padding: 2rem;
+<<<<<<< HEAD
     margin-top: 2rem;
+=======
+>>>>>>> 5b7b3807fa5e1f5d540a86503180e44fd5863797
 }
 
 .itemList-products {
@@ -60,6 +63,7 @@
     background-color: #379777;
     color: #FAF7F0;
     margin-bottom: 0.5rem;
+<<<<<<< HEAD
 }
 
 .itemList-products-verDetalles {
@@ -74,4 +78,6 @@
 
 .itemList-products-verDetalles:hover {
     background-color: #157656;
+=======
+>>>>>>> 5b7b3807fa5e1f5d540a86503180e44fd5863797
 }
