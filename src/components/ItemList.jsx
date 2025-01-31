@@ -1,12 +1,16 @@
 /* eslint-disable react/prop-types */
 import { CartIcon } from './CartIcon';
-import './ItemListContainer.css';
-import { Link } from 'react-router';
+import './ItemListContainer/ItemListContainer.css';
+import { Link } from 'react-router-dom';
+import { CartWidget } from './CartWidget/CartWidget';
+import './CartWidget/CartWidget.css';
 
-export function ItemList ( {items} ) {
-
+export function ItemList({ items }) {
     return (
         <div className='itemList'>
+            <div className="cart-widget">
+                <CartWidget />
+            </div>
             <ul className='itemList-products'>
                 {items.map(item => (
                     <li key={item.id} className='itemList-products-card'>
@@ -17,7 +21,7 @@ export function ItemList ( {items} ) {
                             <Link to={`/product/${item.id}`} className='itemList-products-verDetalles'>Ver Detalles</Link>
                         </div>
                         <button className='itemList-products-card-cartButton'>
-                            <CartIcon />
+                            <CartIcon product={item} />
                         </button>
                     </li>
                 ))}

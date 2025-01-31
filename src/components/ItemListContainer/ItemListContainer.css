@@ -1,0 +1,107 @@
+.itemList {
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 2rem auto;
+}
+
+.itemList-products {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.itemList-products-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.itemList-products-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.itemList-products-card-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.itemList-products-card-info {
+    padding: 1rem;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.itemList-products-card-info p {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    color: #333;
+}
+
+.itemList-products-card-info p:first-child {
+    font-weight: bold;
+}
+
+.itemList-products-verDetalles {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #B17457;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.itemList-products-verDetalles:hover {
+    background-color: #8a5a44;
+}
+
+.itemList-products-card-cartButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.3s ease;
+}
+
+.itemList-products-card-cartButton:hover {
+    color: #B17457;
+}
+
+@media (max-width: 768px) {
+    .itemList-products {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+
+    .itemList-products-card-img {
+        height: 150px;
+    }
+
+    .itemList-products-card-info {
+        padding: 0.75rem;
+    }
+
+    .itemList-products-card-info p {
+        font-size: 0.9rem;
+    }
+
+    .itemList-products-verDetalles {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+}

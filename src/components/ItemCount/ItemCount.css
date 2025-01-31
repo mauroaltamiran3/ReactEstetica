@@ -1,0 +1,10 @@
+.itemCount {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.itemCount-btns {
+    display: flex;
+    gap: 1rem;
+}

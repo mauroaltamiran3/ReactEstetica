@@ -1,0 +1,25 @@
+.cart-total {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+.btn-checkout {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background-color: #28a745;
+    color: white;
+    font-size: 1rem;
+    padding: 0.75rem;
+    margin-top: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.btn-checkout:hover {
+    background-color: #218838;
+}
